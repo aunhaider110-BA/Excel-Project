@@ -24,11 +24,17 @@ What is the relationship between age and gender based on the number of orders?
 
 **Key Insights**
 •	Female customers account for a larger share of purchases, contributing approximately 71% of total sales. 
+
 •	Lahore, Karachi, and Islamabad are the leading cities in terms of sales contribution. 
+
 •	The 30–40 years age segment represents the highest share of customers. 
+
 •	Daraz, Sapphire Store, and Bonanza Satrangi collectively contribute around 48% of overall sales. 
-Final Recommendation to Increase New StyleHub Store Sales
+
+**Final Recommendation to Increase New StyleHub Store Sales**
+
 •	Focus marketing efforts on women aged 30–49 years residing in Lahore, Karachi, and Islamabad. 
+
 •	Promote targeted advertisements, special offers, and discount coupons through Daraz, Sapphire Store, and Bonanza Satrangi to drive higher sales and customer engagement.
 
 **Conclusion**

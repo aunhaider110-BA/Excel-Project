@@ -8,18 +8,29 @@ This project analyzes sales and order data using Microsoft Excel. The objective 
 
 **Objectives**
 Compare sales and orders using charts.
+
 Identify the month with the highest sales and orders.
+
 Analyze purchasing behavior by gender.
+
 Examine different order statuses.
+
 Identify the top 5 cities contributing to sales.
+
 Explore the relationship between age groups and gender based on order count.
 
 **Analysis Questions**
+
 Compare sales and orders using a single chart.
+
 Which month had the highest sales and orders?
+
 Who purchased more products: men or women?
+
 What are the different order statuses?
+
 Which are the top 5 cities contributing to sales?
+
 What is the relationship between age and gender based on the number of orders?
 
 **Key Insights**
